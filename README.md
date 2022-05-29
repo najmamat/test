@@ -16,4 +16,5 @@ Použité technologie:
 - MobX (https://mobx.js.org/react-integration.html)
 - Framer (https://www.framer.com/docs/animation/)
 - CSS
+
 ![IMG_3218](https://user-images.githubusercontent.com/105919297/170890358-484d1643-dfae-4b23-bb68-62f411416c25.PNG)
