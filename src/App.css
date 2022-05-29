@@ -1,0 +1,22 @@
+html {background-color:  #375E97}
+
+.App {
+  text-align: center;
+}
+.view-radek {
+  background-color: greenyellow;
+}
+.view-radek{
+  display: flex;
+  flex-direction: row;
+  gap:5px;
+}
+
+.input{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header {
+  color: white;
+}
